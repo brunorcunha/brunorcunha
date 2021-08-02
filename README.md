@@ -1,9 +1,7 @@
-<div align="center">
-  <h1>Oi, tudo bem? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-</div>
+<img width="auto" src="https://github.com/brunorcunha/brunorcunha/raw/main/header.jpg">
 
-<h3 align="center">
-  Meu nome é Bruno Cunha, sou desenvolvedor FullStack Node/Vue. 
+<h1 align="center">
+  Bruno Cunha | Desenvolvedor FullStack Node/Vue
 </h3>
 
 <br>
