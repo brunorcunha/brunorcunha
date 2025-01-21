@@ -11,8 +11,6 @@
 
 <img align="left" src="https://komarev.com/ghpvc/?username=brunorcunha" alt="brunorcunha" /><br>
 
-<img align="right" style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=brunorcunha&count_private=true&show_icons=true&hide=issues&theme=react&hide_border=true" />
-
 - 🚀 JavaScript, Vue2, Vue3, Nuxt.js e NodeJS
 - 💻 Atualmente trabalhando como Front-end Developer
 - 📫 Me encontre no Discord: **Bruno Cunha#0189**
