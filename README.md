@@ -9,8 +9,6 @@
   <img align="right" style="margin-right: 10px" src="https://img.shields.io/badge/-brunorcunhadev-blue?style=social&logo=Linkedin&logoColor=blue">
 </a>
 
-<img align="left" src="https://komarev.com/ghpvc/?username=brunorcunha" alt="brunorcunha" /><br>
-
 - 🚀 JavaScript, Vue2, Vue3, Nuxt.js e NodeJS
 - 💻 Atualmente trabalhando como Front-end Developer
 - 📫 Me encontre no Discord: **Bruno Cunha#0189**
